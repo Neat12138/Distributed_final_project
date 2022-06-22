@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShuffleJoin">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShuffleJoin</output-path>
+    <root id="archive" name="ShuffleJoin.jar">
+      <element id="module-output" name="finalproject_ShuffleJoin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BroadcastJoin">
+    <output-path>$PROJECT_DIR$/out/artifacts/BroadcastJoin</output-path>
+    <root id="archive" name="BroadcastJoin.jar">
+      <element id="module-output" name="finalproject_BroadcastJoin" />
+    </root>
+  </artifact>
+</component>
